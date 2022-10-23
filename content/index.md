@@ -1,9 +1,6 @@
-  IEC Games - We Make AWESOME Mobile Games!     body { background-color: #f8f4ef } p.p1 { margin: 0.0px 0.0px 0.0px 0.0px; line-height: 20.0px; font: 18.0px 'Helvetica Light'; color: #000000; -webkit-text-stroke: #000000 } p.p3 { margin: 0.0px 0.0px 10.0px 0.0px; line-height: 20.0px; font: 14.0px Helvetica; color: #333333; -webkit-text-stroke: #333333 } li.li5 { margin: 0.0px 0.0px 0.0px 0.0px; line-height: 20.0px; font: 14.0px Helvetica; color: #333333; -webkit-text-stroke: #333333 } span.s1 { font-kerning: none } span.s2 { -webkit-text-stroke: 0px #000000 } ol.ol1 { list-style-type: decimal } ul.ul1 { list-style-type: disc }
-
 IEC Global PTY LTD
 
-Privacy Policy
---------------
+## Privacy Policy
 
 IEC Global PTY LTD and its subsidiaries and its affiliates (“Company”, “IEC Games”, “we” or “ IEC Global PTY LTD”) respect the privacy of the users of their mobile applications (“User” or “you”) and are committed to protect the User’s information. This Privacy Policy explains the types of information we collect, and how we collect, use, disclose, share and protect your information.  We recognize the importance of protecting the information collected about you. Please familiarize yourself with our privacy practices.
 
@@ -31,7 +28,7 @@ Non-personal information, alone, cannot be used to identify or contact you. We c
 
 Generally, we use your information to provide you with an efficient and customized experience. For example, we may use information in the following ways:
 
-*   To send important notices, such as communications about your purchases and changes to this Privacy Policy;
+- To send important notices, such as communications about your purchases and changes to this Privacy Policy;
 
 1.  To inform you about new IEC Games products and promote IEC Games products;
 2.  To send "push" notifications to your mobile device regarding IEC Games that you have been playing (for example, suggesting that you open the IEC Games to take certain actions);
@@ -42,7 +39,7 @@ Generally, we use your information to provide you with an efficient and customiz
 7.  For market research purposes that support our efforts to deliver a more valuable service to our community of IEC Games users;
 8.  To deliver and target advertising from third parties;
 9.  To gather demographic information about IEC Games users in order to more effectively manage the Apps and provide targeted advertising; and
-10.  To track clicks or other ad fulfillment metrics.
+10. To track clicks or other ad fulfillment metrics.
 
 If we send e-mail or SMS messages to you for the purpose of promoting IEC Games products or services, or those of a third-party partner, we will generally provide you with choices about receiving further such promotional messages. Preferences for "push" notifications may in most cases be adjusted through IEC Games or your mobile device.
 
@@ -124,10 +121,10 @@ Within 30 days of receiving such a request, we will provide a list of the catego
 
 We provide you with the rights described below when you use our Services. Please contact us at iecglobal.au@gmail.com if you would like to exercise your rights under applicable law. When we receive an individual rights request from you, please make sure you are ready to verify your identity. Please be advised that there are limitations to your individual rights. We may limit your individual rights in the following ways:
 
-*   Where denial of access is required or authorized by law;
-*   When granting access would have a negative impact on other's privacy;
-*   To protect our rights and properties; and
-*   Where the request is frivolous or burdensome.
+- Where denial of access is required or authorized by law;
+- When granting access would have a negative impact on other's privacy;
+- To protect our rights and properties; and
+- Where the request is frivolous or burdensome.
 
 **Right to withdraw consent.** If we rely on consent to process your personal information, you have the right to withdraw your consent at any time. A withdrawal of consent will not affect the lawfulness of our processing or the processing of any third parties based on consent before your withdrawal.For all data processing activities that rely on users’ consent, you can withdraw your consent at any time from the “settings” page in our various applications. Please only note that in the case where you withdraw your consent or where you refuse to consent in the first place, you will still be served with advertising but that may be less relevant to you as it will not be tailored to your interests.
 
