@@ -1,0 +1,44 @@
+{
+  "name": "automation-deploy-netlify",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "http-server",
+    "typecheck": "tsc --p .",
+    "clean": "rimraf dist",
+    "compile": "cross-env-shell babel src -d dist --source-maps --extensions '.ts'",
+    "start": "npm run clean && npm run compile && node ./dist/index.js",
+    "start-typecheck": "npm run typecheck && npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiepleIEC/automation-deploy-netlify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiepleIEC/automation-deploy-netlify/issues"
+  },
+  "homepage": "https://github.com/hiepleIEC/automation-deploy-netlify#readme",
+  "devDependencies": {
+    "@types/fs-extra": "^9.0.13",
+    "@types/markdown-it": "^12.2.3",
+    "@types/node": "^18.11.3",
+    "http-server": "^14.1.1",
+    "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "@babel/cli": "^7.19.3",
+    "@babel/core": "^7.19.6",
+    "@babel/preset-env": "^7.19.4",
+    "@babel/preset-typescript": "^7.18.6",
+    "cross-env": "^7.0.3",
+    "fs-extra": "^10.1.0",
+    "highlight.js": "^11.6.0",
+    "markdown-it": "^13.0.1",
+    "rimraf": "^3.0.2"
+  }
+}
